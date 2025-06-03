@@ -28,6 +28,12 @@ The AI was tested on:
 With both first and second move scenarios.
 
 ##  Running Tests
+To play the AI:
+python3 main.py -p1 alphaBetaAI -p2 monteCarloAI -limit_players 1,2 -verbose True
+To play against the AI:
+python3 main.py -p1 humanConsole -p2 alphaBetaAI
+
+
 
 To evaluate AI performance:
 ```bash
