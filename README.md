@@ -1,5 +1,5 @@
 # connect4-ai-minimax
-AI agent for Connect 4 using Minimax and Alpha-Beta Pruning with competitive play against Monte Carlo and Random agents.
+blah AI agent for Connect 4 using Minimax and Alpha-Beta Pruning with competitive play against Monte Carlo and Random agents.
 
 # Connect 4 AI – Minimax & Alpha-Beta Pruning
 
